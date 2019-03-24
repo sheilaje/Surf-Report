@@ -1,9 +1,11 @@
 import React from 'react';
+import SurfDetails1 from './SurfDetails';
+import './assets/styles/styles.css';
 
  function App(){
   return(
     <div>
-      <h1>Hello!!!!!!!!!!!</h1>
+    <SurfDetails1 />
     </div>
   );
 }
